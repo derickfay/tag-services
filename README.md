@@ -6,7 +6,7 @@ Automator workflows to add tagging Services to Mavericks.
 
 ### Dependencies
 
-https://github.com/jdberry/tag
+Install https://github.com/jdberry/tag first
 
 ### Installation
 
