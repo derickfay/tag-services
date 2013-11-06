@@ -60,7 +60,7 @@
 				<dict>
 					<key>COMMAND_STRING</key>
 					<string>export PATH=/opt/local/bin:/opt/local/sbin:$PATH
-tag --add `pbpaste` "$@"</string>
+tag --add "`pbpaste`" "$@"</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
